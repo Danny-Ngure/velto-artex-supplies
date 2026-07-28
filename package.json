@@ -1,8 +1,5 @@
 {
   "name": "velto-artex-prime-supplies",
   "private": true,
-  "version": "1.0.0",
-  "scripts": {
-    "build": "echo 'Static site build complete'"
-  }
+  "version": "1.0.0"
 }
